@@ -19,8 +19,6 @@ The script supports multiple levels of headings (subsections), which are determi
 
 ### Usage - Python
 
-### Usage
-
 1. Ensure that Python 3 is installed on your system.
 2. Save the script to a file, for example, `mdtoc.py`.
 3. Open a terminal or command prompt.
